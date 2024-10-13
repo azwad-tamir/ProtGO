@@ -15,5 +15,22 @@ Furthermore, the technique is lightweight and less computationally expensive com
 methods, while at the same time not unaffected by sequence length, rendering it appropriate for diverse
 applications with varying sequence lengths.
 
+Dataset link: https://drive.google.com/file/d/1bZD67DqXv9LkYo0HCCEXW4USjgjgqBAY/view?usp=sharing
 
+## Running Instructions:
+
+step1: Clone the repository in the local machine
+
+step2: Download the models from the following directory and paste it into the project root:
+https://drive.google.com/file/d/1ObwqMIGE6A-gjr3lOTjaAWDhP0kbsJjL/view?usp=sharing
+
+step3: Install pytorch by running the following in the terminal:
+
+>> pip install torch==1.10.2+cpu torchvision==0.11.3+cpu --extra-index-url https://download.pytorch.org/whl/cpu
+
+step4: Install other necessary libraries by running the following in the terminal:
+
+>> pip install -r requirements.txt
+
+step5: Run the training scripts to train the model and run evaluations.
 
