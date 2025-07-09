@@ -1,6 +1,8 @@
 # ProtGO
 ## A Transformer based fusion model for accurately predicting Gene Ontology (GO) terms from full-scale Protein Sequences
 
+![ProtGO_pic](https://github.com/user-attachments/assets/5c7cb5b8-a071-4225-8e14-7b6697e4eef9)
+
 Recent developments in next-generation sequencing technology have led to the creation of extensive, open-source protein databases consisting of hundreds of millions of sequences. To render these sequences applicable
 in biomedical applications, they must be meticulously annotated by wet lab testing or extracting them from
 existing literature. Over the last few years, researchers have developed numerous automatic annotation
